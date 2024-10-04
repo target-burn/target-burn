@@ -16,7 +16,7 @@ And so I have never been to this cafe. Unless they make it obvious that they're 
 
 Do customers know that you're open for business?
 
-We're going through this with accoil.com. Does the website (our storefront) tell visitors that we're open for them?
+We're going through this with [accoil.com](https://accoil.com). Does the website (our storefront) tell visitors that we're open for them?
 
 We're testing this in two simple ways:
 
