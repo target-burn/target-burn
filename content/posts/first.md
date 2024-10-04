@@ -1,5 +1,5 @@
 +++
-title = 'do customers know you're open for them?'
+title = "do customers know you're open for them?"
 date = 2024-09-18T08:00:00+10:00
 draft = false
 +++
