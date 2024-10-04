@@ -20,11 +20,11 @@ We're going through this with accoil.com. Does the website (our storefront) tell
 
 We're testing this in two simple ways:
 
-When we update the copy, I send a few friends an email asking if they can do a quick exercise for me. Click the link, read the hero copy at the top of the page, tell me what we do and who we serve.
-Using Harry's Three Rules​
-Can I visualize it?
-Can I falsify it?
-Can anybody else say it?
+1. When we update the copy, I send a few friends an email asking if they can do a quick exercise for me. Click the link, read the hero copy at the top of the page, tell me what we do and who we serve.
+2. Using Harry's Three Rules​
+    - Can I visualize it?
+    - Can I falsify it?
+    - Can anybody else say it?
 There are more intricate ways of doing this. Probably more reliable ways. But speed is important right now and the cost of not getting it 100% right isn't as high as it will be when we have loads of organic traffic going to the site.
 
 If the right readers know what we sell, that we built if for them, and that they can buy (or try) from us right now our website is working.
