@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Target Burn</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Target Burn</description>
+    <generator>Hugo -- 0.135.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Oct 2024 08:20:26 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>http://localhost:1313/posts/first/</link>
+      <pubDate>Sat, 05 Oct 2024 08:20:26 +1000</pubDate>
+      <guid>http://localhost:1313/posts/first/</guid>
+      <description>&lt;h1 id=&#34;this-is-my-heading&#34;&gt;this is my heading&lt;/h1&gt;
+&lt;p&gt;this is a paragragh and &lt;em&gt;some formatting&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Second</title>
+      <link>http://localhost:1313/posts/second/</link>
+      <pubDate>Sat, 05 Oct 2024 08:20:26 +1000</pubDate>
+      <guid>http://localhost:1313/posts/second/</guid>
+      <description>&lt;h1 id=&#34;this-is-my-heading-for-post-two&#34;&gt;this is my heading for post two&lt;/h1&gt;
+&lt;p&gt;this is a paragragh and &lt;em&gt;some formatting&lt;/em&gt; and &lt;strong&gt;more formatting&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
