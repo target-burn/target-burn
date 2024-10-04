@@ -1,0 +1,30 @@
+baseURL: ""
+languageCode: en-us
+title: Target Burn
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Howdy"
+    Content: "Welcome to Target Burn, y'all."
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/pgpreston/"
+    - name: youtube
+      url: "https://www.youtube.com/@marketplacegrowth"
+
+  ShowBreadCrumbs: true
+
+  ShowReadingTime: true
+
+  ShowShareButtons: false
+  
+  ShowPostNavLinks: true
+
+
+menu:
+  main:
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 10
