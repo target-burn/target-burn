@@ -9,21 +9,22 @@
     <lastBuildDate>Sat, 05 Oct 2024 08:20:26 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My first Hugo post</title>
-      <link>http://localhost:1313/posts/first/</link>
-      <pubDate>Sat, 05 Oct 2024 08:20:26 +1000</pubDate>
-      <guid>http://localhost:1313/posts/first/</guid>
-      <description>&lt;h1 id=&#34;this-is-my-heading&#34;&gt;this is my heading&lt;/h1&gt;
-&lt;p&gt;this is a paragragh and &lt;em&gt;some formatting&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;one new line added using the github mobile app&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Second</title>
-      <link>http://localhost:1313/posts/second/</link>
+      <link>http://localhost:1313/posts/0002/</link>
       <pubDate>Sat, 05 Oct 2024 08:20:26 +1000</pubDate>
-      <guid>http://localhost:1313/posts/second/</guid>
+      <guid>http://localhost:1313/posts/0002/</guid>
       <description>&lt;h1 id=&#34;this-is-my-heading-for-post-two&#34;&gt;this is my heading for post two&lt;/h1&gt;
 &lt;p&gt;this is a paragragh and &lt;em&gt;some formatting&lt;/em&gt; and &lt;strong&gt;more formatting&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>do customers know you&#39;re open for them?</title>
+      <link>http://localhost:1313/posts/0001/</link>
+      <pubDate>Wed, 18 Sep 2024 08:00:00 +1000</pubDate>
+      <guid>http://localhost:1313/posts/0001/</guid>
+      <description>&lt;p&gt;The new restaurant down the road from us has a little &amp;ldquo;open&amp;rdquo; sign in the window. But it&amp;rsquo;s damn near impossible to tell if they&amp;rsquo;re open. Even when they&amp;rsquo;re open.&lt;/p&gt;
+&lt;p&gt;The open sign is white neon lettering. It&amp;rsquo;s a fine sign.&lt;/p&gt;
+&lt;p&gt;But it&amp;rsquo;s position in the window is in front of a floor lamp inside. That floor lamp is always on. It&amp;rsquo;s the same white as the open sign.&lt;/p&gt;
+&lt;p&gt;Every time I drive by I wonder &amp;ldquo;is it the open sign or just the lamp&amp;rdquo; I can see? Because I&amp;rsquo;m a (mostly) responsible driver, my focus is more on the road than the sign.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
