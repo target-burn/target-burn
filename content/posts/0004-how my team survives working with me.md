@@ -1,7 +1,7 @@
 +++
 title = "how my team survives working with me"
 date = 2024-09-21T08:00:00+10:00
-draft = true
+draft = false
 +++
 
 Teams often face the same hurdles, dilemmas, and decision-points over and over again.
