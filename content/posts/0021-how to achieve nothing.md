@@ -1,6 +1,6 @@
 +++
 title = "how to achieve nothing"
-date = 2024-10-8T08:00:00+10:00
+date = 2024-10-08T08:00:00+10:00
 draft = false
 +++
 
